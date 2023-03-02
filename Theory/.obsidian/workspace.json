@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5046bb79816e285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Conditional Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "45165db75900555e",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Variables and Types.md",
+                "file": "03-Conditional Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Variables and Types.md",
+                "file": "03-Conditional Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Variables and Types.md"
+                "file": "03-Conditional Statements.md"
               }
             }
           }
@@ -159,9 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eab34dacd55cb33",
+  "active": "e5046bb79816e285",
   "lastOpenFiles": [
-    "01-Hello World.md",
-    "02-Variables and Types.md"
+    "02-Variables and Types.md",
+    "03-Conditional Statements.md",
+    "01-Hello World.md"
   ]
 }
